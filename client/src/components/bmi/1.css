@@ -1,0 +1,126 @@
+#aaa{
+    border-radius: 5px;
+}
+#aa1{
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Athiti', sans-serif;
+}
+#aa2{
+    border-radius: 5px;
+    background-color: rgb(236, 104, 104);
+    margin-top: 40px;
+    color: black;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: all 0.5s ease;
+    text-transform: uppercase;
+    position: center;
+}
+#aa2:hover{
+    font-size: 25px;
+}
+#aa6{
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: all 0.5s ease;
+    text-transform: uppercase;
+    position: center;
+    background-color: rgb(27, 150, 150);
+    margin-top: 50px;
+}
+#aa6:hover{
+    font-size: 25px;
+    background-color: rgb(33, 184, 184);
+}
+div{
+    ackground-color: #10303d;
+}
+#aa4{
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Athiti', sans-serif;
+    border-radius: 5px;
+    
+}
+#aa6{
+    border-radius: 5px;
+    margin-top: 40px;
+    color: black;
+
+}
+#aa7{
+    font-size: 40px;
+}
+#aa8{
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Athiti', sans-serif;
+    border-radius: 10px;
+    margin-top: 40px;
+    background-color: rgb(28, 43, 48);
+    color: rgb(202, 202, 202);;
+}
+#aa9{
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Athiti', sans-serif;
+    border-radius: 10px;
+    margin-top: 40px;
+    background-color: rgb(28, 43, 48);
+    color: rgb(202, 202, 202);
+}
+#aa{
+    float:left;
+    color:rgb(190, 190, 190);
+}
+#aa1{
+    padding: 50px;
+    margin-top: -50px;
+}
+#aa10{
+    padding: 50px;
+    margin-top: -60px;
+}
+#aa11{
+    float: left;
+    color:rgb(190, 190, 190);
+    margin-top: -10px;
+    font-size: 20px;
+    margin: 5px;
+}
+#ab1{
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 45px;
+    float: left;
+    margin-left: -45px;
+}
+#a2{
+    color:rgb(190, 190, 190);
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Athiti', sans-serif;
+}
+#aaaa1{
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: all 0.5s ease;
+    text-transform: uppercase;
+    position: center;
+    background-color: rgb(38, 129, 172);
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-top: 40px;
+    color: black;
+
+}
+#aaaa1:hover{
+    font-size: 25px;
+    background-color: rgb(33, 161, 184);
+}
+#aab{
+    color:rgb(190, 190, 190);
+}
+#c2{
+
+}
+input{
+    background-color: #ffffff;
+    color: #000000;
+}
